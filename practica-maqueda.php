@@ -4,6 +4,7 @@
  * @author Loli
  * @version 1.0
  * En phpDocumentor la documentación se distribuye en bloques "DocBlock".
+ * Se modifica archivo para la tarea 5.
  */
 
 
